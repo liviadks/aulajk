@@ -1,2 +1,0 @@
-# aulajk
-aula de lógica
